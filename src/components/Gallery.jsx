@@ -1,19 +1,22 @@
 const photos = [
   {
-    src: 'https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=900&q=80',
-    alt: 'Craft beer taps lined up at the bar',
+    // From Unsplash craft beer search — beer pour/tap scene
+    src: 'https://images.unsplash.com/photo-1600788886242-5c96aabe3757?auto=format&fit=crop&w=900&q=80',
+    alt: 'Craft beer being poured at the bar',
   },
   {
-    src: 'https://images.unsplash.com/photo-1436076863939-06870fe779c2?auto=format&fit=crop&w=600&q=80',
-    alt: 'Two amber craft beer pints on a wooden table',
+    // From Unsplash craft beer search — craft beer glass
+    src: 'https://images.unsplash.com/photo-1567696911980-2eed69a46042?auto=format&fit=crop&w=600&q=80',
+    alt: 'Craft beer pint glass on a wooden table',
   },
   {
     src: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80',
     alt: 'Gourmet pub burger with cheese and fresh toppings',
   },
   {
-    src: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80',
-    alt: 'Classic beer-battered fish and chips',
+    // From Unsplash pub food search
+    src: 'https://images.unsplash.com/photo-1519233991914-26a44330ccd7?auto=format&fit=crop&w=600&q=80',
+    alt: 'Pub food plate with fries and sides',
   },
   {
     src: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80',
@@ -24,7 +27,8 @@ const photos = [
     alt: 'Close up of beer being poured from a tap',
   },
   {
-    src: 'https://images.unsplash.com/photo-1567529684892-09290a1b2d05?auto=format&fit=crop&w=600&q=80',
+    // From Unsplash craft beer search — amber ale
+    src: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?auto=format&fit=crop&w=600&q=80',
     alt: 'Craft beer glass with golden amber ale',
   },
   {
