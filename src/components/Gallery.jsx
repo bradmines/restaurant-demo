@@ -1,10 +1,10 @@
 const photos = [
   {
-    src: 'https://images.unsplash.com/photo-1574096115613-8a84bfedab76?auto=format&fit=crop&w=900&q=80',
+    src: 'https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=900&q=80',
     alt: 'Craft beer taps lined up at the bar',
   },
   {
-    src: 'https://images.unsplash.com/photo-1567696911980-2eed69a46e3b?auto=format&fit=crop&w=600&q=80',
+    src: 'https://images.unsplash.com/photo-1436076863939-06870fe779c2?auto=format&fit=crop&w=600&q=80',
     alt: 'Two amber craft beer pints on a wooden table',
   },
   {
@@ -12,7 +12,7 @@ const photos = [
     alt: 'Gourmet pub burger with cheese and fresh toppings',
   },
   {
-    src: 'https://images.unsplash.com/photo-1544025162-d76538d4c194?auto=format&fit=crop&w=600&q=80',
+    src: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80',
     alt: 'Classic beer-battered fish and chips',
   },
   {
@@ -24,7 +24,7 @@ const photos = [
     alt: 'Close up of beer being poured from a tap',
   },
   {
-    src: 'https://images.unsplash.com/photo-1608270586636-6bc64f2c7f25?auto=format&fit=crop&w=600&q=80',
+    src: 'https://images.unsplash.com/photo-1567529684892-09290a1b2d05?auto=format&fit=crop&w=600&q=80',
     alt: 'Craft beer glass with golden amber ale',
   },
   {
