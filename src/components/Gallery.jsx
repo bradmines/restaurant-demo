@@ -19,6 +19,11 @@ const photos = [
     alt: 'Pub food plate with fries and sides',
   },
   {
+    // Fills the grid gap at col 4 row 2 — from Unsplash pub food search
+    src: 'https://images.unsplash.com/photo-1611698529138-c5968262a080?auto=format&fit=crop&w=600&q=80',
+    alt: 'Hearty pub dish served on a rustic plate',
+  },
+  {
     src: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80',
     alt: 'Warm pub dining room with candles and atmosphere',
   },
