@@ -45,8 +45,8 @@ const photos = [
     alt: 'Crispy chicken wings with sauces',
   },
   {
-    src: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=600&q=80',
-    alt: 'Elegantly plated pub main course dish',
+    src: 'https://images.unsplash.com/photo-1457460866886-40ef8d4b42a0?auto=format&fit=crop&w=600&q=80',
+    alt: 'Hearty pub main course plated to serve',
   },
 ]
 
