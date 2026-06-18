@@ -7,6 +7,6 @@ export default defineConfig({
     outDir: 'dist',
   },
   preview: {
-    allowedHosts: ['restaurant-demo-production-7faa.up.railway.app'],
+    allowedHosts: true,
   },
 })
